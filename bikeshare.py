@@ -222,4 +222,5 @@ if __name__ == "__main__":
 #Credits to Pandas .dt Series which helped access date values and idxmax for frequency
 #https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.html
 #https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month_name.html
+#Credits to Python documentation accessible via https://docs.python.org
 #https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.idxmax.html
